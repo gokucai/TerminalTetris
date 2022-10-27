@@ -1,6 +1,8 @@
 # TerminalTetris
 A terminal based game written in c++.
 
+![](https://github.com/gokucai/TerminalTetris/tree/main/img/example.gif)
+
 I use ANSI Escape Sequence to implement cursor movement. 
 If you know nothing about it, check <https://en.wikipedia.org/wiki/ANSI_escape_code>.
 
